@@ -1,6 +1,6 @@
 # moneytracker
 
-A new Flutter project.
+A Flutter project for tracking expenses.
 
 ## Getting Started
 
